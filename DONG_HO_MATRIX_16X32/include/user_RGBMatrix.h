@@ -1,7 +1,7 @@
 #ifndef USER_RGBMATRIX_H
 #define USER_RGBMATRIX_H
 #include "main.h"
-
+extern RGBmatrixPanel matrix;
 #define LAT_PIN 8
 #define CLK_PIN  9
 #define OE_PIN   10
